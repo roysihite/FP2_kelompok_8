@@ -23,7 +23,7 @@
 }
 
 .card-body {
-  background-color: aliceblue !important;
+  background-color: #ffee93 !important;
 }
 
 .border-primary {
@@ -76,4 +76,20 @@ img {
 }
 .container-lg {
   text-align: center;
+}
+
+#product {
+  background-color: #90ee90;
+}
+
+#home {
+  background-color: #fff;
+}
+
+.navbar-expand-lg {
+  background-color: #fff !important;
+}
+
+.card {
+  margin-top: 10px !important;
 }
